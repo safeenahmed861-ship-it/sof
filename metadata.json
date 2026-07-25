@@ -1,0 +1,6 @@
+{
+  "name": "نقابة المحاسبين العراقيين | منظومة مسار HR",
+  "description": "منظومة رقمية موحدة لنقابة المحاسبين العراقيين لإدارة الموظفين، الحضور والانصراف ببصمة الأصبع والوجه، الإجازات والتبليغات مع المساعد الذكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
